@@ -1,0 +1,102 @@
+# banner
+banner:
+  title : "Adieu salut! <br> Je suis Jade Altea <br> Perroset"
+
+# about
+about:
+  enable : true
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Skills"
+  item:
+    - title : "Design graphique"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Illustration"
+      progress : "60%"
+      color : "#9473e6"
+      
+    - title : "Rédaction"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Sites web"
+      progress : "60%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  title : "Expérience professionnelle"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Designer graphique indépendante"
+      company : "J.A.Perroset"
+      duration : "2015 - Actuellement"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "Graphiste"
+      company : "Swiss Solar Boat"
+      duration : "2019 - 2021"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Médiamaticienne"
+      company : "Nidecker SA"
+      duration : "2016 - 2017"
+
+# education
+education:
+  enable : true
+  title : "Formation"
+  item:
+    - title : "Bachelor en ingénierie des médias"
+      year : "2022"
+      academy : "HEIG-VD"
+      
+    - title : "Maturité professionnel économique voie service"
+      year : "2019"
+      academy : "CPNV"
+      
+    - title : "CFC Médiamaticienne"
+      year : "2018"
+      academy : "CPNV"
+      
+    - title : "Préapprentissage médiamatique/informatique"
+      year : "2014"
+      academy : "CPNV"
+
+# service
+service:
+  enable : true
+  title : "Services"
+  item:
+    - title : "Design graphique"
+      icon : "ti-palette"
+      content : "Je conçois, sur demande, toutes vos réalisations graphiques print et digital: Logos, mascottes, icônes, Chartes/identités graphiques, Catalogues, Bannières, Habillage de réseaux sociaux,Template pour posts de réseaux sociaux, et bien d'autres
+"
+      highlighted : false
+
+    - title : "UX/UI Design"
+      icon : "ti-vector"
+      content : "Conception de maquettes pour applications et site web respectant les bonnes pratique de l'UX et UI. Conduite de tests utilisateurs et rapports."
+      highlighted : true
+
+    - title : "Illustration"
+      icon : "ti-panel"
+      content : "Depuis quelques années je proposes un service d’illustration. Jusqu’à maintenant j’ai principalement réalisé des portraits, mais je reste ouverte à toute demande."
+      highlighted : false
+
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
