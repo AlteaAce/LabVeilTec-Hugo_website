@@ -8,7 +8,7 @@ about:
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   button:
     enable : true
-    label : "know more"
+    label : "plus ..."
     URL : "about"
 
 # skill
@@ -82,17 +82,17 @@ service:
       icon : "ti-palette"
       content : "Je conçois, sur demande, toutes vos réalisations graphiques print et digital: Logos, mascottes, icônes, Chartes/identités graphiques, Catalogues, Bannières, Habillage de réseaux sociaux,Template pour posts de réseaux sociaux, et bien d'autres
 "
-      highlighted : false
+      highlighted : true
 
     - title : "UX/UI Design"
       icon : "ti-vector"
       content : "Conception de maquettes pour applications et site web respectant les bonnes pratique de l'UX et UI. Conduite de tests utilisateurs et rapports."
-      highlighted : true
+      highlighted : false
 
     - title : "Illustration"
       icon : "ti-panel"
       content : "Depuis quelques années je proposes un service d’illustration. Jusqu’à maintenant j’ai principalement réalisé des portraits, mais je reste ouverte à toute demande."
-      highlighted : false
+      highlighted : true
 
 
 # blog
