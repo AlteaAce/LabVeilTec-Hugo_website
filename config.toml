@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://alteaace.github.io/LabVeilTec-Hugo_website/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'J.A.Perroset'
 theme = "kross-hugo"
 
 [taxonomies]
