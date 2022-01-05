@@ -1,46 +1,33 @@
 ---
-title: "Amazon increase income 1.5 Million"
-date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-2.jpg"
+title: "Le Fil d'Ariane, à quoi ça sert?"
+date: 2022-01-05T12:14:34+06:00
+image: "images/blog/article-2.jpg"
 description: "This is meta description."
 draft: false
+categories: ["UX/UI Desgin"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Les fils d’Arianes sont des éléments de navigation permettant aux utilisateurs de mieux s’orienter en leur indiquant leur position sur vos sites. Ceux-ci se présentent sous la forme d’une liste de liens représentant la « généalogie » la page actuelle, parente, et ce jusqu’à la home page. Généralement, le fil d’Ariane est affiché en haut de la page juste en dessous de la navigation principale avec pour séparateur un « > », « / » ou « — ».
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+![Image provenant du site J.A.Perroset (https://japerroset.ch/produit/groot/)](/LabVeilTec-Hugo_website/blog/article-2-img1.png) 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Image provenant du site J.A.Perroset https://japerroset.ch/produit/groot/
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Les fils d’Ariane sont notamment recommandés pour les avantages qu’ils comportent sans pour autant affecter trop grandement l’interface utilisateur. En effet, si l’utilisateur s’enfonce dans un sitemap complexe, la présence de cette hiérarchie peut permettre à l’utilisateur de retourner plus aisément à une page l’intéressant ou étant plus pertinente. Cela est d’autant plus vrai lorsqu’ils « sautent » certains niveaux (par exemple, sur la page accueil je clique sur un produit suggéré, grâce au fil d’Ariane je vois que ce produit appartient à la sous-page « stickers ». Je peux donc simplement cliquer sur cette page dans le fil pour voir d’autres stickers au lieu de chercher dans la navigation.)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+## Conseils d'utilisation
+
+1.	Les fils d’Ariane ne sont pas là pour remplacer la barre de navigation.
+2.	Le fil d’Ariane doit afficher l’emplacement actuel et sa généalogie passée jusqu’à la home page.
+3.	La page actuelle doit être le dernier élément du fil d’Ariane.
+4.	La page actuelle ne doit pas être un lien.
+5.	Si plusieurs hiérarchies sont possibles pour atteindre un page, il faut un choisir une.
+6.	Le fil d’Ariane inclut que les pages du site, non pas les catégories.
+7.	Les fils d’Ariane ne sont pas « obligés » pour les sites ayant une hiérarchie horizontale ou avec peu de profondeur.
+8.	Attention à ne pas avoir un fil d’Ariane sur plusieurs lignes.
+9.	Si nécessaire, n’hésitez pas à raccourcir le fil pour ne montrer que les derniers niveaux en proposant un moyen de développer la partie raccourcie.
+10.	Surtout sur mobile, n’utilisez pas une typographie trop petite ou serrée.
+
+## Conclusion
+
+Au début d’une carrière dans le design ou dans n’import quel domaine touchant aux sites internet, nous nous trouvons confrontés à des éléments existants appliqués comme des normes tacites sans pour autant comprendre pourquoi ils sont utilisés. Maintenant, je comprends l’importance du fil d’Ariane, mais aussi comment l’appliquer. En effet, durant mes recherches, j’ai pu le voir appliqué de différentes manières qui n’étaient pas toutes judicieuses.

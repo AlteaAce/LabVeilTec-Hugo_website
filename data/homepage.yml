@@ -1,11 +1,12 @@
 # banner
 banner:
-  title : "Adieu salut! <br> Je suis Jade Altea <br> Perroset"
+  title : "Bienvenue sur <br>le site Hugo de <br> J.A.Perroset"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Détentrice d’un CFC de médiamaticienne, j’ai débuté des études en ingénierie des médias pour parfaire mes connaissances dans divers domaines tel que le marketing digital et les technologies web. De plus, à la fin de ces études, le bachelor que j’obtiendrai me permettra de débuter l’enseignement en école professionnelle.
+À côté de mes études, je réalise quelques contrats de design, création de sites et illustration. "
   button:
     enable : true
     label : "plus ..."

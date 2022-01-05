@@ -31,8 +31,8 @@ link = "plugins/google-map/map.js"
 
 # menu
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "a-propos"
+name = "À propos"
 weight = 1
 
 [[menu.main]]
@@ -49,7 +49,7 @@ weight = 3
 
 # default parameters
 [params]
-home = "Home"
+home = "Accueil"
 logo = ""
 # theme color
 theme_color = "#006E63"
