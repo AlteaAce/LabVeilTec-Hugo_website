@@ -4,7 +4,8 @@ date: 2021-12-13T12:14:34+06:00
 image: "images/blog/article-1.jpg"
 description: "Quelles ont été et quelles seront les tendances en UX/UI Design en 2021 et 2022?"
 draft: false
-categories: ["UX/UI Desgin", "Tendances"]
+categories: ["UX/UI Desgin"]
+tags: ["Tendances"]
 
 ---
 
@@ -64,6 +65,7 @@ Nous pouvons voir que l’isolation physique de la nature, vers laquelle nous se
 J’ai aussi pu remarquer que la différence entre UX et UI Design ne semble pas très claire sur de nombreuses plateformes. Il pourrait être intéressant de poser une petite définition avant de rédiger les articles.
 
 ## Sources
+
 https://99designs.fr/blog/tendances/tendances-design-ux/
 
 https://www.affde.com/fr/visual-trends-in-ux-and-web-design.html

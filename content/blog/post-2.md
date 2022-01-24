@@ -5,6 +5,7 @@ image: "images/blog/article-2.jpg"
 description: "This is meta description."
 draft: false
 categories: ["UX/UI Desgin"]
+tags: ["Astuces"]
 ---
 
 Les fils d’Arianes sont des éléments de navigation permettant aux utilisateurs de mieux s’orienter en leur indiquant leur position sur vos sites. Ceux-ci se présentent sous la forme d’une liste de liens représentant la « généalogie » la page actuelle, parente, et ce jusqu’à la home page. Généralement, le fil d’Ariane est affiché en haut de la page juste en dessous de la navigation principale avec pour séparateur un « > », « / » ou « — ».
@@ -31,3 +32,8 @@ Les fils d’Ariane sont notamment recommandés pour les avantages qu’ils comp
 ## Conclusion
 
 Au début d’une carrière dans le design ou dans n’import quel domaine touchant aux sites internet, nous nous trouvons confrontés à des éléments existants appliqués comme des normes tacites sans pour autant comprendre pourquoi ils sont utilisés. Maintenant, je comprends l’importance du fil d’Ariane, mais aussi comment l’appliquer. En effet, durant mes recherches, j’ai pu le voir appliqué de différentes manières qui n’étaient pas toutes judicieuses.
+
+## Source
+
+https://www.nngroup.com/articles/breadcrumbs/
+
