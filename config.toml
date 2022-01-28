@@ -31,7 +31,7 @@ link = "plugins/google-map/map.js"
 
 # menu
 [[menu.main]]
-URL = "a-propos"
+URL = "about"
 name = "À propos"
 weight = 1
 
