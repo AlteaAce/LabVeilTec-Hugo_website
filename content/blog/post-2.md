@@ -10,7 +10,7 @@ tags: ["Astuces"]
 
 Les fils d’Arianes sont des éléments de navigation permettant aux utilisateurs de mieux s’orienter en leur indiquant leur position sur vos sites. Ceux-ci se présentent sous la forme d’une liste de liens représentant la « généalogie » la page actuelle, parente, et ce jusqu’à la home page. Généralement, le fil d’Ariane est affiché en haut de la page juste en dessous de la navigation principale avec pour séparateur un « > », « / » ou « — ».
 
-![Image provenant du site J.A.Perroset (https://japerroset.ch/produit/groot/)](/LabVeilTec-Hugo_website/blog/article-2-img1.png) 
+![Image provenant du site J.A.Perroset (https://japerroset.ch/produit/groot/)](/LabVeilTec-Hugo_website/blog/article-2-img1.jpg) 
 
 Image provenant du site J.A.Perroset https://japerroset.ch/produit/groot/
 
